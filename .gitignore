@@ -2,5 +2,5 @@ node_modules
 npm-debug.log
 dist
 .idea
-**/*.js.map
-**/*.js
+src/**/*.js.map
+src/**/*.js
